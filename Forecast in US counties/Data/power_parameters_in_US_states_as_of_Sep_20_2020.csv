@@ -1,0 +1,52 @@
+"state_name","state_name_short","pow_param"
+"Alabama","AL",0
+"Alaska","AK",0.791
+"Arizona","AZ",0.412
+"Arkansas","AR",0.746
+"California","CA",0.457
+"Colorado","CO",1.28
+"Connecticut","CT",0.668
+"Delaware","DE",1.039
+"Florida","FL",0.097
+"Georgia","GA",1.846
+"Hawaii","HI",0.029
+"Idaho","ID",0.196
+"Illinois","IL",1.127
+"Indiana","IN",2
+"Iowa","IA",0.115
+"Kansas","KS",0.007
+"Kentucky","KY",0.011
+"Louisiana","LA",1.375
+"Maine","ME",0.441
+"Maryland","MD",1.076
+"Massachusetts","MA",0.932
+"Michigan","MI",0.963
+"Minnesota","MN",1.894
+"Mississippi","MS",0.04
+"Missouri","MO",0.013
+"Montana","MT",0.252
+"Nebraska","NE",0.672
+"Nevada","NV",0.143
+"New Hampshire","NH",0.412
+"New Jersey","NJ",0.41
+"New Mexico","NM",0.641
+"New York","NY",0.77
+"North Carolina","NC",1.033
+"North Dakota","ND",0.134
+"Ohio","OH",1.011
+"Oklahoma","OK",1.831
+"Oregon","OR",0.256
+"Pennsylvania","PA",1.127
+"Rhode Island","RI",0.477
+"South Carolina","SC",0.071
+"South Dakota","SD",0.147
+"Tennessee","TN",0.273
+"Texas","TX",0.221
+"Utah","UT",0.087
+"Vermont","VT",1.685
+"Virginia","VA",0.783
+"Washington","WA",0.892
+"West Virginia","WV",1.025
+"Wisconsin","WI",0.05
+"Wyoming","WY",0.024
+"District of Columbia","DC",0.717
