@@ -1,6 +1,6 @@
 # Robust-estimation-of-SARS-CoV-2-epidemic-in-US-counties
 
-This repositary contains codes and data for the paper [Robust estimation of SARS-CoV-2 epidemic in US counties](https://arxiv.org/pdf/2010.11514.pdf). It's separated into two parts:
+This repository contains codes and data for the paper [Robust estimation of SARS-CoV-2 epidemic in US counties](https://arxiv.org/pdf/2010.11514.pdf). It's separated into two parts:
 
 1. Folder *Reproducing results in the paper* provides codes and data that could reproduce all the figures and tables in the paper.
 2. Folder *Forecast in US counties* provides codes and data that can generate forcasts in US counties with more than 2 death cases as of September 20, 2020. The forecast start date and length can be easily adjusted by changing the variables "end_date" and "prediction_length" in the codes.
